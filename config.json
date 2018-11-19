@@ -1,0 +1,10 @@
+{
+    "port": "3000",
+    "eventHubName": "huzzaheventhubz",
+    "ehConnString": "Endpoint=sb://huzzah2suitez.servicebus.windows.net/;SharedAccessKeyName=readwrite;SharedAccessKey=LigISJ12nHJz15YYwlshMFDzOWK1kWvGU+gSvcvY5vw=;EntityPath=huzzaheventhubz;SharedAccessKey=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa=",
+    "deviceConnString": "HostName=IOTAzureMGS.azure-devices.net;DeviceId=sparkfunesp8266;SharedAccessKey=ZPZz+mVZDeYTxC2NP2BwmfEJTKAf3jEXywh7o5TtJ1c=",
+    "HostName=IOTAzureMGS.azure-devices.net;SharedAccessKeyName=service;SharedAccessKey=k3/6161qqcs8/FbbVbUq8gUQMt8vgTA5I+nxpjoKxFM=",
+    "storageAcountName": "huzzahstoragez",
+    "storageAccountKey": "8E5dHljomyvpCso4GZrQLWIl4cgToO4/7/uYACjbL06+LbLGKzMmQy1DisOEqWCaNQb0bJN6NjvbqRBKCVmMVA==",
+    "storageTable": "TemperatureRecords"
+} 
